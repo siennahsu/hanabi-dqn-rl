@@ -13,6 +13,7 @@ The project repo contains six .py files and one .ipynb file. Their uses are as s
 - training_online.py contains the code to run an online trial.
 - testing.py is used for purely playing the game and not training. 
 
+The file report.pdf discusses the project in depth.
 
 To run our code, the packages below need to be installed:
 
